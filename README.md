@@ -1,4 +1,6 @@
 # Optimizing Hotel Revenue Through Booking Cancellation Prediction
+![New Day, New Stay](https://github.com/user-attachments/assets/845544cc-0a54-46ea-a4c0-c43bd715ebae)
+
 
 ## Project Overview
 
